@@ -4,8 +4,10 @@
 
 Aurora lights, also known as the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights), are one of the most mesmerizing natural phenomena on Earth. These stunning light displays in the polar regions captivate viewers with their ethereal beauty. Auroras are caused by charged particles from the sun colliding with atoms and molecules in the Earth's atmosphere, creating breathtaking curtains of light that dance across the night sky.
 
-<!-- Embed YouTube Video with Autoplay -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A9RN83XFQoI?si=OQYa2EM8kpHY6vJ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Aurora](https://i.natgeofe.com/n/63527567-9a8b-4b08-819d-a6142fb2b350/aurora-kirkjufell-iceland_4x3.jpg)
+
+
+## [Watch Aurora Lights Video](https://www.youtube.com/watch?v=A9RN83XFQoI)
 
 ## Table of Contents
 
