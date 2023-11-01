@@ -53,4 +53,3 @@ We welcome contributions to this repository. If you have educational materials, 
 ## Contact
 
 If you have any questions or need assistance, you can contact us at [prashu235913@gmail.com] or text me on my socials.
-```
