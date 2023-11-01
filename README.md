@@ -54,5 +54,3 @@ We welcome contributions to this repository. If you have educational materials, 
 
 If you have any questions or need assistance, you can contact us at [prashu235913@gmail.com] or text me on my socials.
 ```
-
-You can copy and paste this markdown content into your `README.md` file, replacing placeholders like `[yourusername]`, `[your@email.com]`, and `[slack.stemtraining.org]` with your specific information.
